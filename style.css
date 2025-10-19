@@ -179,7 +179,7 @@ section h2::after {
     padding: 10px 10px 10px 10px;
 }
 .animation:hover{
-     transform: scale(1.08);
+     transform: scale(1.1);
   box-shadow: 0 0 10px #007acc;
     transition: transform 0.3s, box-shadow 0.3s;
      
@@ -341,4 +341,5 @@ section:nth-of-type(5) { transition-delay: 0.25s; }
 #profile-pic:hover {
   transform: scale(1.3); /* grows 30% */
 }
+
 
